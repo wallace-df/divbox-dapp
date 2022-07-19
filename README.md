@@ -12,6 +12,5 @@ Compound protocol.
 Ropsten Testnet dApp: https://wallace-df.github.io/divbox/
 
 
-![DivBox](/preview.mp4?raw=true "DivBox")
-
+https://user-images.githubusercontent.com/54377956/179654241-c2feea40-c137-40d6-be72-b549211fce6b.mp4
 
