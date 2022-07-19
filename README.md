@@ -1,4 +1,6 @@
 # DivBox
+Frontend built with Bootstrap and JQuery for the DivBox dApp.
+
 DivBox is a dApp that allows users to grow their ETH holdings in two ways:
 
 1. People can buy shares using ETH and sell those shares later with for a profit.
@@ -10,6 +12,6 @@ Compound protocol.
 Ropsten Testnet dApp: https://wallace-df.github.io/divbox/
 
 
-![DivBox](/divbox.png?raw=true "DivBox")
+![DivBox](/preview.mp4?raw=true "DivBox")
 
 
