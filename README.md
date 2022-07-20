@@ -1,4 +1,4 @@
-# DivBox
+# DivBox - dApp
 Frontend built with Bootstrap and JQuery for the DivBox dApp.
 
 ---
